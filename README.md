@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayush Shende</h1>
-<h3 align="center">A passionate Machine Learning and AI fresher from India</h3>
+<h3 align="center">A passionate Machine Learning and AI student from India</h3>
 <img align="right" alt="Coding" width="400" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushshende0311&label=Profile%20views&color=0e75b6&style=flat" alt="ayushshende0311" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning Algorithms**
+- 🌱 I’m currently a **MSc Computer Science** Student in *Budapest University of Technology and Econmics* 
 
 - 💬 Ask me about **Machine Learning , Artificial Intelligence and Data Science**
 
